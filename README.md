@@ -28,12 +28,12 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Thi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Stha-Parichit/portfolio.git
+git clone https://github.com/Stha-Parichit/Portfolio.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd portfolio
+cd Portfolio
 ```
 
 3. Open `index.html` in your browser to view the website.
@@ -99,4 +99,4 @@ For any questions or suggestions, please feel free to reach out through the cont
 
 ---
 
-Made with ❤️ by Parichit Shrestha 
+Made with ❤️ by Parichit Shrestha
